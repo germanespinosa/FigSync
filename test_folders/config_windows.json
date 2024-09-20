@@ -1,0 +1,12 @@
+{ "handlers":
+  [
+    {
+      "pattern": "local/*",
+      "script": "echo",
+      "actions": [
+        "CREATE",
+        "UPDATE"
+      ]
+    }
+  ]
+}

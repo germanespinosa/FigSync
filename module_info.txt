@@ -1,0 +1,19 @@
+{
+    "major": 0,
+    "minor": 0,
+    "build": 22,
+    "source_folder": "FigSync",
+    "module_name": "FigSync",
+    "package_name": "FigSync",
+    "author": "author",
+    "author_email": "germanespinosa@gmail.com",
+    "description": "",
+    "install_requires": [
+        "watchdog",
+        "pymupdf"
+    ],
+    "license_type": "MIT",
+    "url": "",
+    "license_file": "../resources/license.txt",
+    "readme_file": "../resources/README.md"
+}
